@@ -6,11 +6,8 @@ repository: https://github.com/rohit-chouhan/whatsapp
 
 environment:
   sdk: ">=2.17.1 <4.0.0"
-  flutter: ">=1.17.0"
 
 dependencies:
-  flutter:
-    sdk: flutter
   http: ^1.2.2
   http_parser: ^4.0.2
 
